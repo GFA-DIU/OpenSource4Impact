@@ -58,13 +58,17 @@ The (pre)feasibility stage can set the stage for a possible preference on open s
    - Typical situation: the development partner (GIZ, KfW) wants to develop an open source GIS tool. The partner, however, has already some experience with ArcGIS (proprietary), has built up a simple ArcGIS-based spatial data infrastructure, and has some licenses available. Explicitly forcing the ToR towards Open Source will only bring confusion and frustration from all sides, requiring sketchy adjustments ("It must be Open Source, but also fully compatible with ArcGIS")
 
 ### What to consider in the discovery phase
-- identify detailed user needs
+- identify detailed user needs 
+> [!WARNING]
+> [Comment Stéphane] Usually the users don't know what they need until they have something in their hands. I would therefore not put so much emphasis on the "detailed user needs", but more on the description of use cases and personas AND highlight the need for agility, because we know already that the users will come with new needs during the development phase
+
 - translate them into technical requirements
 - develop a clear product vision
 - re-assess the running costs of the software - hosting, maintenance, support, further development - for different options
+- Accept the fact that, no matter how good your discovery phase has been, there will be massive changes during implementation and the users will discover later that they have new needs and requirements. Therefore, need to embed processes supporting agility (e.g. drop a feature envisioned by the ToR, and replace it by another one, deemed more important / relevant by the users), and ensure that the quality / completedness of the tool will not be only assessed against the requirements specified in the ToR
 
 ### What to consider for the implementation phase
-- Schnittstellen
+- Interoperability
 - the clearer the more to think about priorization of features (narrow vs broad use cases)
 - timeline for user uptake
 - handover 
