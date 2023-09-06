@@ -2,12 +2,14 @@
 
 ## Aim and objective
 
-Context: projects with a digital component, in the broad field of international development cooperation
-Objective of this checklist: provide a list of points / questions / topics that need to be discussed / brainstormed / resolved / challenged when deciding to go for Open Source
+* Context: projects with a digital component, in the broad field of international development cooperation
+* Objective of this checklist: provide a list of points / questions / topics that need to be discussed / brainstormed / resolved / challenged when deciding to go for Open Source
 
 ## Disclaimer
 
-The collective behind this checklist has a positive bias towards Open Source, and is moved by the conviction that, in most cases, Open Source is the best approach for development cooperation projects (lack of resources from the partners to pay for licenses on the long-term; co-financing of projects through several donors; mutualization and cross-fertilization; make a more transparent use of public money; involvement of local IT companies for the development and maintenance; etc.). However, we are also pragmatic and fully acknowledge that, in some situations, proprietary solutions are the way to go (typically: when a partner already uses a proprietary software, it often makes more sense to further build their capacities on this software than to re-invent the wheel and force new tools, processes and approaches on them).
+The collective behind this checklist has a positive bias towards Open Source, and is moved by the conviction that, in most cases, Open Source is the best approach for development cooperation projects (lack of resources from the partners to pay for licenses on the long-term; co-financing of projects through several donors; mutualization and cross-fertilization; make a more transparent use of public money; involvement of local IT companies for the development and maintenance; etc.). 
+
+However, we are also pragmatic and fully acknowledge that, in some situations, proprietary solutions are the way to go (typically: when a partner already uses a proprietary software, it often makes more sense to further build their capacities on this software than to re-invent the wheel and force new tools, processes and approaches on them).
 
 ## Introduction
 * An open source tool is generally associated to a software whose code is freely available. 
@@ -30,11 +32,15 @@ The (pre)feasibility stage can set the stage for a possible preference on open s
 - digital capacities at hosting institution (partner or project team):
   - digital skills in team: if low, then propose STE that understands the technical language to accompany tendering and initial stages of implementation > prepare the team for having to be deeply involved in the design and implementation (giving frequent feedback, testing, reviewing)
   - dedicated IT department responsible for hosting and maintenance
+- digital capacities in the country / region (landscape of IT companies able to provide support, development, hosting, maintenance locally)
+- digital capacities and expertise in the networks of the partner (e.g. in other Ministries), who *might* become involved in the process (as users, as data partners, etc.)
 - availability of existing open source tools that match the problem definition with their level of maturity
-  - how to assess the maturity of a digital tool?
+  - how to assess the maturity of an Open Source digital tool?
       - timeline of existence
       - size and activity level of community > vendor lock-in
       - existing number of service providers offering hosting, setup, adaptations...
+      - transparency of the development processes (e.g. are all changes, commits, feature requests visible on an open repository? or is the work actually conducted in a closed way, and "just uploaded to GitHub from time to time"?)
+      - _iteratively apply the same questions / criteria on the main libraries upon which the tool relies_
 - contribution to an open source community or trying to build up a new one?
 - better small and feasible, than too large and complex
 - review overall cost for different options (open source and non-open source)
@@ -42,12 +48,15 @@ The (pre)feasibility stage can set the stage for a possible preference on open s
 - interperability above open source?
   
 ### What to consider when writing ToR
+
 - develop a product vision
 - make clear which aspects about the software, its implementation or use are still unclear > derive from that: requirement to use a specific open source tool or to find an appropriate solution
-- methods: the more unknown the more agile is needed
+- methods: the more unknown the more agile is needed. Therefore, avoid to be too precise and details in the description of the wished features (the "how"). Rather spend energy on identifying, understanding and re-formulating the user needs and use cases (the "why")
 - Assess the running costs of the software - hosting, maintenance, support, further development - for different options
 - Consider whether only user training is needed, or also training for contributers, IT departments, etc.
-- 
+- Be fully honest and transparent with the partners, and involve them early in the conception of the ToR. Very often, the partners only receive a final version of the ToR, "for comments", at a stage where it is too late for questioning the ToR's rationale and main directions
+   - Typical situation: the development partner (GIZ, KfW) wants to develop an open source GIS tool. The partner, however, has already some experience with ArcGIS (proprietary), has built up a simple ArcGIS-based spatial data infrastructure, and has some licenses available. Explicitly forcing the ToR towards Open Source will only bring confusion and frustration from all sides, requiring sketchy adjustments ("It must be Open Source, but also fully compatible with ArcGIS")
+
 ### What to consider in the discovery phase
 - identify detailed user needs
 - translate them into technical requirements
