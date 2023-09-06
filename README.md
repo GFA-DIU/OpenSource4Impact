@@ -1,11 +1,21 @@
 # Open Source Checklist
 
-##Introduction
-An open source tool is generally associated to a software whose code is freely available. 
-There are different types of open source licences....
-We need to distinguish between open source libraries and open source tools.
-Digital Public Goods: define whether this is relevant (as a quality label?)
-Public money - public code - no blackbox
+## Aim and objective
+
+Context: projects with a digital component, in the broad field of international development cooperation
+Objective of this checklist: provide a list of points / questions / topics that need to be discussed / brainstormed / resolved / challenged when deciding to go for Open Source
+
+## Disclaimer
+
+The collective behind this checklist has a positive bias towards Open Source, and is moved by the conviction that, in most cases, Open Source is the best approach for development cooperation projects (lack of resources from the partners to pay for licenses on the long-term; co-financing of projects through several donors; mutualization and cross-fertilization; make a more transparent use of public money; involvement of local IT companies for the development and maintenance; etc.). However, we are also pragmatic and fully acknowledge that, in some situations, proprietary solutions are the way to go (typically: when a partner already uses a proprietary software, it often makes more sense to further build their capacities on this software than to re-invent the wheel and force new tools, processes and approaches on them).
+
+## Introduction
+* An open source tool is generally associated to a software whose code is freely available. 
+* There are different types of open source licences. The most common ones are to be found on https://opensource.org/licenses/
+* We need to distinguish between open source libraries and open source tools.
+* We need to distinguish between "using existing OpenSource software" (typically in our context: QGIS, NextCloud, etc.) vs. "developping OpenSource tools" (incl. code and community management, choice of license, long-term ownership, etc.)
+* Digital Public Goods: define whether this is relevant (as a quality label?)
+* Public money - public code - no blackbox
 
 
 ## Open Source checklist by project stage
