@@ -66,13 +66,24 @@ The (pre)feasibility stage can set the stage for a possible preference on open s
 - develop a clear product vision
 - re-assess the running costs of the software - hosting, maintenance, support, further development - for different options
 - Accept the fact that, no matter how good your discovery phase has been, there will be massive changes during implementation and the users will discover later that they have new needs and requirements. Therefore, need to embed processes supporting agility (e.g. drop a feature envisioned by the ToR, and replace it by another one, deemed more important / relevant by the users), and ensure that the quality / completedness of the tool will not be only assessed against the requirements specified in the ToR
+> [!WARNING]
+> [Comment Fred] The value of the prefeasibility or the feasibility is not always ensured for complex IT projects given their fast lifecycle. We even observe quite often that an IT project never delivers becomes it remains stuck in discovery and feasbility. How can we make clear how to overcome this (the whole agile toolkit...?) 
 
 ### What to consider for the implementation phase
 - Interoperability
 - the clearer the more to think about priorization of features (narrow vs broad use cases)
 - timeline for user uptake
-- handover 
+- handover
+- close collaboration with the partner and repeated meetings (whatever your preferred time interval ).
+- Retros and reviews for the pain points and delivered successes ? Make sure that repriorization is constantly possible.
 
 ### What to consider for the maintenance and support phase
 - clarify costs/staff responsibilities for hosting and maintenance, if there is no one then get a contract with a provider for that
 - clarify....
+
+### Project complexity
+- The FC cycle (maybe to a lesser degree for TC) is really meant to implement complicated projects.
+- IT projects easily get complicated (a la Cynefin) with many stakeholders, fast technology cycles, complex technology.
+- So does Open Source make the project too complicated or is able to handle this? 
+- How is the complexity integrated into the implementation phase ?
+- This is most likely part of the discovery phase ?
