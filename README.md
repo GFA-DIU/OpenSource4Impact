@@ -71,7 +71,7 @@ The (pre)feasibility stage can set the stage for a possible preference on open s
 > [Comment Linda] Ah I seem to remember something with LODA in Rwanda which was canceled after two years. My first thought would be that we cahnge the feasibility section into saying: concentrate on the problem description only (and maybe a description of the ideal state), as that lifecycle is slower. But that means that budget estimates would be near to impossible and budget would have to be decided on other information. 
 
 ### What to consider for the implementation phase
-- Interoperability
+- [Interoperability](https://github.com/GFA-DIU/GFA-DIU.github.io/issues/1)
 - the clearer the more to think about priorization of features (narrow vs broad use cases)
 - timeline for user uptake
 - handover
