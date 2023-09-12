@@ -1,5 +1,13 @@
 # Open Source Checklist
 
+## Collaboration rules and notes
+<em>Feel free to edit the text as you like. If you want to propose a completely new structure or delete major parts, please use the pull request function
+
+If you want to start a discussion on a specific word or aspect in the main text, please create an issue and link the issue to the main text (see interoperability as an example)
+
+General note: As you will see below, we are back to the question on general digital projects versus specifically open source. Maybe we could have a very brief general point and below each of them something like: specific to consider for open source choices....? Or kick out all the general stuff</em>
+
+
 ## Aim and objective
 
 * Context: projects with a digital component, in the broad field of international development cooperation
@@ -7,9 +15,10 @@
 
 ## Disclaimer
 
-The collective behind this checklist has a positive bias towards Open Source, and is moved by the conviction that, in most cases, Open Source is the best approach for development cooperation projects (lack of resources from the partners to pay for licenses on the long-term; co-financing of projects through several donors; mutualization and cross-fertilization; make a more transparent use of public money; involvement of local IT companies for the development and maintenance; etc.). 
+The collective behind this checklist has a positive bias towards Open Source, and is moved by the conviction that, as a default option, Open Source is the preferable approach for development cooperation projects because they are publicly financed (public money public code) and because of the collaborative nature of these projects (co-financing of projects through several donors; mutualization and cross-fertilization) and because open source makes the nvolvement of local IT companies for the development and maintenance; etc. easier. 
+lack of resources from the partners to pay for licenses on the long-term?
 
-However, we are also pragmatic and fully acknowledge that, in some situations, proprietary solutions are the way to go (typically: when a partner already uses a proprietary software, it often makes more sense to further build their capacities on this software than to re-invent the wheel and force new tools, processes and approaches on them).
+However, we are also pragmatic and fully acknowledge that, in some situations, proprietary solutions are the way to go. This is typically the case when 1) a partner already uses a proprietary software, it often makes more sense to further build their capacities on this software than to re-invent the wheel and force new tools, processes and approaches on them, or it may make sense if the partner has no own IT capacities and maintenance is expensive (e.g. due to a lack of a community, lack of scale).
 
 ## Introduction
 * An open source tool is generally associated to a software whose code is freely available. 
@@ -21,8 +30,6 @@ However, we are also pragmatic and fully acknowledge that, in some situations, p
 
 
 ## Open Source checklist by project stage
-<em>As you will see below, we are back to the question on general digital projects versus specifically open source. Maybe we could have a very brief general point and below each of them something like: specific to consider for open source choices....? Or kick out all the general stuff</em>
-
 
 ### Prefeasibility and feasibility stage
 The (pre)feasibility stage can set the stage for a possible preference on open source. This choice should be based on:
@@ -58,9 +65,10 @@ The (pre)feasibility stage can set the stage for a possible preference on open s
    - Typical situation: the development partner (GIZ, KfW) wants to develop an open source GIS tool. The partner, however, has already some experience with ArcGIS (proprietary), has built up a simple ArcGIS-based spatial data infrastructure, and has some licenses available. Explicitly forcing the ToR towards Open Source will only bring confusion and frustration from all sides, requiring sketchy adjustments ("It must be Open Source, but also fully compatible with ArcGIS")
 
 ### What to consider in the discovery phase
-- identify detailed user needs 
-> [!WARNING]
-> [Comment Stéphane] Usually the users don't know what they need until they have something in their hands. I would therefore not put so much emphasis on the "detailed user needs", but more on the description of use cases and personas AND highlight the need for agility, because we know already that the users will come with new needs during the development phase
+- identify detailed problem description (description of use cases and personas AND highlight the need for agility, because we know already that the users will come with new needs during the development phase)
+- be careful with user needs (Usually the users don't know what they need until they have something in their hands)
+- prioritize on the core problem
+- be careful with assigning roles to other critical user types without talking to them and analyzing their "problem" (e.g. those that enter data, those that supposed to benefit from increased transparency, ...)
 
 - translate them into technical requirements
 - develop a clear product vision
