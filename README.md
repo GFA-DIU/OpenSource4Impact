@@ -56,7 +56,7 @@ The (pre)feasibility stage can set the stage for a possible preference on open s
   
 ### What to consider when writing ToR
 
-- develop a product vision
+- develop a broad product vision
 - make clear which aspects about the software, its implementation or use are still unclear > derive from that: requirement to use a specific open source tool or to find an appropriate solution
 - methods: the more unknown the more agile is needed. Therefore, avoid to be too precise and details in the description of the wished features (the "how"). Rather spend energy on identifying, understanding and re-formulating the user needs and use cases (the "why")
 - Assess the running costs of the software - hosting, maintenance, support, further development - for different options
@@ -79,6 +79,14 @@ The (pre)feasibility stage can set the stage for a possible preference on open s
 > [Comment Linda] Ah I seem to remember something with LODA in Rwanda which was canceled after two years. My first thought would be that we change the feasibility section into saying: concentrate on the problem description only (and maybe a description of the ideal state), as that lifecycle is slower. But that means that budget estimates would be near to impossible and budget would have to be decided on other information.
 > [Comment Clarisse] just an idea to go beyong the problem description only: it could be useful to use the BMC toolkit for this: start by discribing the custumer PAINS (problems you want to overcome for the user) and costumer GAINS (what could help the user in their task/job)
 
+Project complexity
+
+    The FC cycle (maybe to a lesser degree for TC) is really meant to implement complicated projects.
+    IT projects easily get complicated (a la Cynefin) with many stakeholders, fast technology cycles, complex technology.
+    So does Open Source make the project too complicated or is able to handle this?
+    How is the complexity integrated into the implementation phase ?
+    This is most likely part of the discovery phase ?
+
 ### What to consider for the implementation phase
 - [Interoperability](https://github.com/GFA-DIU/GFA-DIU.github.io/issues/1)
 - the clearer the more to think about priorization of features (narrow vs broad use cases)
@@ -91,9 +99,3 @@ The (pre)feasibility stage can set the stage for a possible preference on open s
 - clarify costs/staff responsibilities for hosting and maintenance, if there is no one then get a contract with a provider for that
 - clarify....
 
-### Project complexity
-- The FC cycle (maybe to a lesser degree for TC) is really meant to implement complicated projects.
-- IT projects easily get complicated (a la Cynefin) with many stakeholders, fast technology cycles, complex technology.
-- So does Open Source make the project too complicated or is able to handle this? 
-- How is the complexity integrated into the implementation phase ?
-- This is most likely part of the discovery phase ?
