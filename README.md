@@ -24,45 +24,67 @@ However, we are also pragmatic and fully acknowledge that, in some situations, p
 * An open source tool is generally associated to a software whose code is freely available. 
 * There are different types of open source licences. The most common ones are to be found on https://opensource.org/licenses/
 * We need to distinguish between open source libraries and open source tools.
-* We need to distinguish between "using existing OpenSource software" (typically in our context: QGIS, NextCloud, etc.) vs. "developping OpenSource tools" (incl. code and community management, choice of license, long-term ownership, etc.)
+* We need to distinguish between "using existing OpenSource software" (typically in our context: QGIS, NextCloud, etc.) vs. "developing OpenSource tools" (incl. code and community management, choice of license, long-term ownership, etc.)
 * Digital Public Goods: define whether this is relevant (as a quality label?)
 * Public money - public code - no blackbox
 
 
 ## Open Source checklist by project stage
 
-### Prefeasibility and feasibility stage
+### Preparatory stages (e.g. prefeasibility and feasibility stage)
 The (pre)feasibility stage can set the stage for a possible preference on open source. This choice should be based on:
-- a precise problem definition
-- a definition of the use case(s) including users, contributers (e.g. data providers), decisiontakers (those who decide whether the tool is being used and at which scale)
-- existing software in use
-- digital capacities at hosting institution (partner or project team):
+- beneficiary/host institution internal aspects:
+  - a precise problem definition
+  - a definition of the use case(s) including users, contributers (e.g. data providers), decisiontakers (those who decide whether the tool is being used and at which scale)
+  - existing software in use
+  - digital capacities at hosting institution (partner or project team):
   - digital skills in team: if low, then propose STE that understands the technical language to accompany tendering and initial stages of implementation > prepare the team for having to be deeply involved in the design and implementation (giving frequent feedback, testing, reviewing)
   - dedicated IT department responsible for hosting and maintenance
-- digital capacities in the country / region (landscape of IT companies able to provide support, development, hosting, maintenance locally)
-- digital capacities and expertise in the networks of the partner (e.g. in other Ministries), who *might* become involved in the process (as users, as data partners, etc.)
-- availability of existing open source tools that match the problem definition with their level of maturity
-  - how to assess the maturity of an Open Source digital tool?
+    
+- local context
+  - digital capacities in the country / region (landscape of IT companies able to provide support, development, hosting, maintenance locally)
+  - digital capacities and expertise in the networks of the partner (e.g. in other Ministries), who *might* become involved in the process (as users, as data partners, etc.)
+- general context
+  -  availability of existing open source tools that match the problem definition with their level of maturity
+    - how to assess the maturity of an Open Source digital tool?
       - timeline of existence
       - size and activity level of community > vendor lock-in
       - existing number of service providers offering hosting, setup, adaptations...
       - transparency of the development processes (e.g. are all changes, commits, feature requests visible on an open repository? or is the work actually conducted in a closed way, and "just uploaded to GitHub from time to time"?)
       - _iteratively apply the same questions / criteria on the main libraries upon which the tool relies_
-- contribution to an open source community or trying to build up a new one?
-- better small and feasible, than too large and complex
-- review overall cost for different options (open source and non-open source)
-- consider vendor lockin
-- interperability above open source?
-  
-### What to consider when writing ToR
 
-- develop a broad product vision
-- make clear which aspects about the software, its implementation or use are still unclear > derive from that: requirement to use a specific open source tool or to find an appropriate solution
-- methods: the more unknown the more agile is needed. Therefore, avoid to be too precise and details in the description of the wished features (the "how"). Rather spend energy on identifying, understanding and re-formulating the user needs and use cases (the "why")
-- Assess the running costs of the software - hosting, maintenance, support, further development - for different options
-- Consider whether only user training is needed, or also training for contributers, IT departments, etc.
+- Cost considerations
+  - Even though it may not be possible to estimate the cost precisely at this stage, there should be a general review of the of the cost categories to consider for different scenarios ( incl. open source and non-open source)
+     - approximate total cost of ownership is a nice way to structure the discussions around pros and cons for different software stacks. you can use it to roughly estimate:
+
+        Cost of licences
+        Cost of internal devs / external devs
+        Cost of internal administration
+        Cost of hardware /maintenance
+
+      This allows you then to compare different scenarios in a way that also speaks to non-tech people...contribution to an open source community or trying to build up a new one?
+  - consider vendor lockin
+  - interperability above open source?
+  
+### Tendering stage: What to consider when writing ToR (goal: ensuring that those responding to the tenders have all the necessary information to submit an offer of good quality)
+General points:
 - Be fully honest and transparent with the partners, and involve them early in the conception of the ToR. Very often, the partners only receive a final version of the ToR, "for comments", at a stage where it is too late for questioning the ToR's rationale and main directions
    - Typical situation: the development partner (GIZ, KfW) wants to develop an open source GIS tool. The partner, however, has already some experience with ArcGIS (proprietary), has built up a simple ArcGIS-based spatial data infrastructure, and has some licenses available. Explicitly forcing the ToR towards Open Source will only bring confusion and frustration from all sides, requiring sketchy adjustments ("It must be Open Source, but also fully compatible with ArcGIS")
+   
+Possible structure:
+- problem description
+- status quo description incl. existing software, existing skills and roles / capacities
+  - make clear which aspects about the software, its implementation or use are still unclear > derive from that: requirement to use a specific open source tool or to find an appropriate solution
+- broad product vision / description of the ideal state
+  - including an explanation why open source is the preferred option 
+- User groups: who will be the users and stakeholders in the software?
+- development stages: often 1) discovery, 2) pilot, 3) implementation/roll out, 4) maintenance for existing open source tools, for "developing OpenSource tools", the following: ....
+- methods may not be needed, but if: the more unknown the more agile is needed. Therefore, avoid to be too precise and details in the description of the wished features (the "how"). Rather spend energy on identifying, understanding and re-formulating the user needs and use cases (the "why")
+- budget
+  - assess the code of each stage
+  - Assess the running costs of the software - hosting, maintenance, support, further development - for different options
+  - Consider whether only user training is needed, or also training for contributers, IT departments, etc.
+
 
 ### What to consider in the discovery phase
 - identify detailed problem description (description of use cases and personas AND highlight the need for agility, because we know already that the users will come with new needs during the development phase)
@@ -91,6 +113,8 @@ Project complexity
 - [Interoperability](https://github.com/GFA-DIU/GFA-DIU.github.io/issues/1)
 - the clearer the more to think about priorization of features (narrow vs broad use cases)
 - timeline for user uptake
+- training
+- several feedback loops and/or continuous further development?
 - handover
 - close collaboration with the partner and repeated meetings (whatever your preferred time interval ).
 - Retros and reviews for the pain points and delivered successes ? Make sure that repriorization is constantly possible.
