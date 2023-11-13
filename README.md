@@ -29,9 +29,22 @@ However, we are also pragmatic and fully acknowledge that, in some situations, p
 * Public money - public code - no blackbox
 
 
+## Open Source checklist by decision criteria
+
+### What do you need to know before recommending generally for or against open source
+- problem
+- cost
+- capacity
+  
+### What do you need to know before deciding for or against a specific solution
+- existing tools
+- existing community
+- 
+
+
+
 ## Open Source checklist by project stage
 
-### Preparatory stages (e.g. prefeasibility and feasibility stage)
 The (pre)feasibility stage can set the stage for a possible preference on open source. This choice should be based on:
 - beneficiary/host institution internal aspects:
   - a precise problem definition
