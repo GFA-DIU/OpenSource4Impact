@@ -1,0 +1,20 @@
+site_name: Open Source guideline for Development Cooperation projects
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+  language: en
+  palette:
+    - scheme: default
+copyright: Copyright &copy; 2024
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
