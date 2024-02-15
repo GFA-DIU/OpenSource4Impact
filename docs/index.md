@@ -16,7 +16,8 @@ However, we are also pragmatic and fully acknowledge that, in some situations, p
 
 ## Introduction 
 
-This guideline is designed to help project managers to: 
+This guideline is designed to help project managers to:
+
  - Take a well-informed decision for or against the use, introduction or development of open source tools 
  - Avoid late failure and unexpected cost through good planning 
 

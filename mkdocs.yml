@@ -2,10 +2,7 @@ site_name: Open Source guideline for Development Cooperation projects
 theme:
   name: material
   features:
-    - navigation.tabs
-    - navigation.sections
     - navigation.top
-    - toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -18,3 +15,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
