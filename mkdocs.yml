@@ -10,16 +10,14 @@ theme:
   language: en
   palette:
     - scheme: default
-  copyright: Copyright &copy; 2024
+  
+copyright: Copyright &copy; 2024 &bullet; <a href="legal_notice">Legal Notice</a> &bullet; <a href="privacy_policy">Privacy Policy</a>
 
 nav:
   - Home: index.md
   - Disclaimer: disclaimer.md
   - Introduction: intro.md
   - Project Prep: pre_project.md
-  - "Legal & Privacy":
-      - Legal notice: legal_notice.md
-      - Privacy policy: privacy_policy.md
 
 markdown_extensions:
   - pymdownx.emoji:
