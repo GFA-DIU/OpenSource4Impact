@@ -11,6 +11,30 @@ It is written from the perspective of practitioners working in publicly funded d
 
 The guideline is structured in a way that it can be read from start to finish, but also be used as a reference guide. It is divided into three main parts:
 
-  1. **Introduction**: This part provides an overview of the guideline and essential terminology. It also introduces the three cases of open source software use in development cooperation projects. 
-  1. **Preproject IT selection**: This part provides a checklist for the preproject phase, where the project team is still in the process of defining the project and its requirements. 
-  1. **Writing ToRs**: This part provides a checklist for the writing of Terms of Reference (ToRs) for the procurement of open source software.
+<div class="grid cards" markdown>
+
+-   :octicons-light-bulb-16:{ .lg .middle } __Introduction__
+
+    ---
+
+    This part provides an overview of the guideline and essential terminology. It also introduces the three cases of open source software use in development cooperation projects. 
+
+    [:octicons-arrow-right-24: Getting started](disclaimer.md)
+
+-   :octicons-checklist-16:{ .lg .middle } __Pre-project IT selection__
+
+    ---
+
+    This part provides a hands-on checklist for the preproject phase, where the project team is still in the process of defining the project and its requirements.
+
+    [:octicons-arrow-right-24: Checklist](IT_sel_checklist.md)
+
+-   :octicons-checklist-16:{ .lg .middle } __Writing ToRs__
+
+    ---
+
+    This part provides a checklist for the writing of Terms of Reference (ToRs) for the procurement of open source software.
+
+    [:octicons-arrow-right-24: Checklist](ToR_checklist.md)
+
+</div>
