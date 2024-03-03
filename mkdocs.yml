@@ -3,6 +3,7 @@ theme:
   name: material
   features:
     - navigation.top
+    - navigation.sections
     - navigation.footer
     - search.suggest
     - search.highlight
@@ -15,9 +16,11 @@ copyright: Copyright &copy; 2024 &bullet; <a href="legal_notice">Legal Notice</a
 
 nav:
   - Home: index.md
-  - Disclaimer: disclaimer.md
-  - Introduction: intro.md
-  - Project Prep: pre_project.md
+  - Introduction:
+     - Disclaimer: disclaimer.md
+     - Open Source in int. Development: intro.md
+  - IT Checklist: IT_sel_checklist.md
+  - ToR Checklist: ToR_checklist.md
 
 markdown_extensions:
   - pymdownx.emoji:
@@ -26,3 +29,5 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - md_in_html

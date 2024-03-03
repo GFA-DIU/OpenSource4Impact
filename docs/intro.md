@@ -1,4 +1,4 @@
-# Introduction 
+# Open Source in international Development Cooperation
 
 This guideline is designed to help project managers to:
 
