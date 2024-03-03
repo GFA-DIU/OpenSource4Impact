@@ -1,3 +1,7 @@
+---
+icon: octicons/checklist-16
+---
+
 # Writing ToRs for projects with Open Source
 
 We recommend those unfamiliar with open source software procurement to seek expert guidance on formulating tenders, as they differ significantly from standard international development tenders (technical advice and infrastructure). As general best practice, consider involving partners and future users early in the conception of the ToR, to ensure alignment with their needs and expectations. In line with this, clearly agree with them their expected level of involvement during the project and transparently communicate this in the ToR. Similarly, be transparent in the reasoning on the technical requirements and have resources available to answer technical questions during the tendering process.

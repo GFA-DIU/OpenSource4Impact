@@ -1,3 +1,7 @@
+---
+icon: octicons/checklist-16
+---
+
 # Checklists at Pre-Project Stage 
 
 The project design phase can set the stage for a possible preference for open source technology.  In line with the definitions above, we focus here on projects that want to use or adapt open source software. For a discussion on case 3, open source development, see the exchange [here](https://github.com/GFA-DIU/GFA-DIU.github.io/issues/15).
