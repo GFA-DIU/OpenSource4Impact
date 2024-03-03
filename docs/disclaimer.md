@@ -1,5 +1,8 @@
 # Disclaimer
-The collective behind this guideline has a positive bias towards Open Source, and is moved by the conviction that, as a default option, Open Source is the preferable approach for development cooperation (DC) and international cooperation (IC) projects because: 
+
+!!! tip "The collective behind this guideline has a positive bias towards Open Source"
+
+We are moved by the conviction that, as a default option, Open Source is the preferable approach for development cooperation (DC) and international cooperation (IC) projects because: 
 
  - DC projects are most frequently publicly financed (see [public money public code](https://publiccode.eu/en/)). In addition, many public institutions financing such projects have politically induced preferences in favour of open source (see e.g. Principles of Digital Development) 
 
