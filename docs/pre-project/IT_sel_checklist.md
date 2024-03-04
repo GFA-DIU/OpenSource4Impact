@@ -1,6 +1,4 @@
-# Checklists at Pre-Project Stage 
-
-The project design phase can set the stage for a possible preference for open source technology.  In line with the definitions above, we focus here on projects that want to use or adapt open source software. For a discussion on case 3, open source development, see the exchange [here](https://github.com/GFA-DIU/GFA-DIU.github.io/issues/15).
+# Identifing suitable Open Source solutions
 
 At the point of project design there often already exists a good  general sense of the underlying need or problem, but the range of possible solutions needs to be better understood. This checklist seeks to guide this process and help determine whether or not an (existing) open source solution is suitable for the project.  Many of the questions are open-ended, and while it is not necessary to answer all of them in order to proceed, this analysis will lay the groundwork for the subsequent creation of clear Terms of Reference (ToR) and successful project implementation.
 
