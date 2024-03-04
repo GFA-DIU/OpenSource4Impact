@@ -5,6 +5,7 @@ theme:
     - navigation.top
     - navigation.sections
     - navigation.footer
+    - navigation.indexes
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -19,8 +20,10 @@ nav:
   - Introduction:
      - Disclaimer: disclaimer.md
      - Open Source in int. Development: intro.md
-  - IT Checklist: IT_sel_checklist.md
-  - ToR Checklist: ToR_checklist.md
+  - Checklists:
+    - pre-project/index.md
+    - IT Selection: pre-project/IT_sel_checklist.md
+    - Writing ToRs: pre-project/ToR_checklist.md
 
 markdown_extensions:
   - pymdownx.emoji:
