@@ -12,7 +12,7 @@ The guide is divided into three main parts:
 
     This part provides an overview of the guideline and essential terminology. It also introduces the three cases of open source software use in development cooperation projects. 
 
-    [:octicons-arrow-right-24: Getting started](disclaimer.md)
+    [:octicons-arrow-right-24: Getting started](introduction/disclaimer.md)
 
 -   :octicons-checklist-16:{ .lg .middle } __Pre-project IT selection__
 
@@ -20,7 +20,7 @@ The guide is divided into three main parts:
 
     This part provides a hands-on checklist for the preproject phase, where the project team is still in the process of defining the project and its requirements.
 
-    [:octicons-arrow-right-24: Checklist](IT_sel_checklist.md)
+    [:octicons-arrow-right-24: Checklist](pre-project/IT_sel_checklist.md)
 
 -   :octicons-checklist-16:{ .lg .middle } __Writing ToRs__
 
@@ -28,6 +28,6 @@ The guide is divided into three main parts:
 
     This part provides a checklist for the writing of Terms of Reference (ToRs) for the procurement of open source software.
 
-    [:octicons-arrow-right-24: Checklist](ToR_checklist.md)
+    [:octicons-arrow-right-24: Checklist](pre-project/ToR_checklist.md)
 
 </div>
