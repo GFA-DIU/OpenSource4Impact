@@ -17,9 +17,7 @@ nav:
   - Disclaimer: disclaimer.md
   - Introduction: intro.md
   - Project Prep: pre_project.md
-  - "Legal & Privacy":
-      - Legal notice: legal_notice.md
-      - Privacy policy: privacy_policy.md
+  - "Legal & Privacy": privacy_legal.md
 
 markdown_extensions:
   - pymdownx.emoji:
