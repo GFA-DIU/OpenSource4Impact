@@ -13,13 +13,13 @@ theme:
   palette:
     - scheme: default
   
-copyright: Copyright &copy; 2024 &bullet; <a href="legal_notice">Legal Notice</a> &bullet; <a href="privacy_policy">Privacy Policy</a>
+copyright: Copyright &copy; 2024 &bullet; <a href="privacy_legal">Legal Notice & Privacy Policy</a>
 
 nav:
   - Home: index.md
   - Introduction:
-     - Disclaimer: disclaimer.md
-     - Open Source in int. Development: intro.md
+     - Disclaimer: Introduction/disclaimer.md
+     - Open Source in int. Development: Introduction/intro.md
   - Checklists:
     - pre-project/index.md
     - IT Selection: pre-project/IT_sel_checklist.md
