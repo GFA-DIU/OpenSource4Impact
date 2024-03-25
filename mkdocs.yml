@@ -12,7 +12,11 @@ theme:
   language: en
   palette:
     - scheme: default
-  
+
+
+plugins:
+  - privacy
+
 copyright: Copyright &copy; 2024 &bullet; <a href="legal_notice">Legal Notice</a> &bullet; <a href="privacy_policy">Privacy Policy</a>
 
 nav:
