@@ -15,6 +15,9 @@ theme:
   
 copyright: Copyright &copy; 2024 &bullet; <a href="privacy_legal">Legal Notice & Privacy Policy</a> &bullet; <a href="#__consent">Change cookie settings</a>
 
+plugins:
+  - privacy
+
 nav:
   - Home: index.md
   - Introduction:
