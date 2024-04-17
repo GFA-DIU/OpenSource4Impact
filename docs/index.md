@@ -12,7 +12,7 @@ The guide is divided into three main parts:
 
     This part provides an overview of the guideline and essential terminology. It also introduces the three cases of open source software use in development cooperation projects. 
 
-    [:octicons-arrow-right-24: Getting started](introduction/disclaimer.md)
+    [:octicons-arrow-right-24: Getting started](Introduction/disclaimer.md)
 
 -   :octicons-checklist-16:{ .lg .middle } __Pre-project IT selection__
 
