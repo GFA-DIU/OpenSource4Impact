@@ -18,5 +18,5 @@ The following checklists are available:
 
 </div>
 
-[Pre-project IT selection]: pre-project/IT_sel_checklist.md
-[Writing ToRs]: pre-project/pre-project/ToR_checklist.md
+[Pre-project IT selection]: IT_sel_checklist.md
+[Writing ToRs]: ToR_checklist.md
