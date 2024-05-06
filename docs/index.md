@@ -26,7 +26,7 @@ The guide is divided into three main parts:
 
     ---
 
-    This part provides a checklist for the writing of Terms of Reference (ToRs) for the procurement of open source software.
+    This part provides a checklist for the writing of Terms of Reference (ToRs) for the procurement and operation of open source software.
 
     [:octicons-arrow-right-24: Checklist](pre-project/ToR_checklist.md)
 

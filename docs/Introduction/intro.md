@@ -20,7 +20,7 @@ The goal of this guideline is therefore to equip those that are responsible for 
 If project teams want to be co-responsible for innovation, security, transparency, flexibility and a sustainable project future, open source is the choice. And, even small inventive digital solutions, designed only for specific tasks can be implemented efficiently with open source. The lifespan of a project supported by open source software depends on its management, impact and funding, not on the level of availability, flexibility and support of licensed software.
 
 **Open source licenses**
-:   An open source license is a legal agreement or copyright license allowing developers to use, modify, and distribute a software's source code freely. It sets the terms and conditions for using, sharing, and modifying software. There are different types of open source licences. Generally, "Open source licenses are licenses that [...] allow software to be freely used, modified, and shared." Open Source Initative, 2023 (Licenses – Open Source Initiative) 
+:   An open source license is a legal agreement or copyright license allowing developers to use, modify, and distribute a software's source code freely. It sets the terms and conditions for using, sharing, and modifying software. There are different types of open source licenses. Generally, "Open source licenses are licenses that [...] allow software to be freely used, modified, and shared." Open Source Initative, 2023 (Licenses – Open Source Initiative). A useful tool to choose a license that fulfills the needs of a project is [Choose a license](https://choosealicense.com/)
 
 
  **Open source tools** 
