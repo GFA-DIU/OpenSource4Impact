@@ -16,11 +16,17 @@
 
     #### Dr. Fred Jendrzejewski
 
-    [*KfW*](https://www.gfa-group.de/)
+    [*KfW*](https://www.kfw.de/kfw.de.html)
     
-    :material-email: [fred.jendrzejewski@kfw.de](mailto:fred.jendrzejewski@kfw.de)
-
     :material-github: [fretchen](https://github.com/fretchen)
+
+-   ![Ronald Steyer Github Profile](https://avatars.githubusercontent.com/u/28636908?v=4)
+
+    #### Ronald Steyer
+
+    [*KfW*](https://www.kfw.de/kfw.de.html)
+
+    :material-github: [RonMath](https://github.com/RonMath)
 
 -   ![Philipp Schreiber Github Profile](https://avatars.githubusercontent.com/u/82368796?v=4)
 
@@ -31,4 +37,40 @@
     :material-email: [philipp.schreiber@gfa-group.de](mailto:philipp.schreiber@gfa-group.de)
 
     :material-github: [pcschreiber1](https://github.com/pcschreiber1)
+
+-   ![Jan Schiele Linkedin Profile](https://media.licdn.com/dms/image/D4D03AQFlpKykQa9ddg/profile-displayphoto-shrink_200_200/0/1715165290217?e=1722470400&v=beta&t=deN5ZSnm2_fwnT-K2lA4IGghRKSyFgdzAYZDfsMDe2o)
+
+    #### Jan Schiele
+    [*LUCID*](https://lucid.berlin/)
+    
+    :material-github:
+
+
+-   ![Stephane Henriod Github Profile](https://avatars.githubusercontent.com/u/23653367?v=4)
+
+    #### Stephane Henriod
+
+    [*Geospatial Expert*](https://sosm.ch/de/ueber-uns/vorstand/fruehere-vorstandsmitglieder/stephane-henriod/)
+    
+
+
+    :material-github: [shenriod](https://github.com/shenriod)
+
+
+-   ![Gianluca Colombo One Off tech Profile](https://oneofftech.xyz/assets/images/team/gianluca.jpg)
+
+    #### Gianluca Colombo
+    [*ONEOFFTECH*](https://lucid.berlin/)
+    
+    :material-github: 
+
+
+-   ![Clarisse Goffard Github Profile](https://avatars.githubusercontent.com/u/145029905?v=4)
+
+    #### Clarisse Goffard
+    [*Digital Strategy Expert*](https://www.linkedin.com/in/clarisse-goffard-3b68b555/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=be)
+    
+    :material-github: [cgoffard](https://github.com/cgoffard)
 </div>
+
+
