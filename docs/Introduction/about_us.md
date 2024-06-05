@@ -47,6 +47,23 @@
     :material-github: [gelicko](https://github.com/gelicko)
 
 
+-   ![Berit Mohr Github Profile](https://avatars.githubusercontent.com/u/129504782?v=4){ width="400" }
+
+    #### Berit Mohr
+
+    [*GFA Consoluting Group GmbH*](https://www.gfa-group.de/)
+    
+    :material-email: [berit.mohr@gfa-group.de](mailto:berit.mohr@gfa-group.de)
+
+    :material-github: [BeritMohrGFA](https://github.com/BeritMohrGFA)
+
+-   ![Jan Schiele Linkedin Profile](https://media.licdn.com/dms/image/D4D03AQFlpKykQa9ddg/profile-displayphoto-shrink_200_200/0/1715165290217?e=1722470400&v=beta&t=deN5ZSnm2_fwnT-K2lA4IGghRKSyFgdzAYZDfsMDe2o){ width="400" }
+
+    #### Jan Schiele
+    [*LUCID*](https://lucid.berlin/)
+    
+    :material-github:
+
 -   ![Philipp Schreiber Github Profile](https://avatars.githubusercontent.com/u/82368796?v=4){ width="400" }
 
     #### Philipp Schreiber
