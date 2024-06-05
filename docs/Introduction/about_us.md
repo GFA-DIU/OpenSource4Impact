@@ -2,7 +2,7 @@
 
 <div class="grid cards team" markdown>
 
--   ![Gianluca Colombo One Off tech Profile](https://placehold.co/600x400){ width="400" }
+-   ![Gianluca Colombo One Off tech Profile](https://avatars.githubusercontent.com/u/82368796?v=4){ width="400" }
 
     #### Gianluca Colombo
     [*ONEOFFTECH*](https://lucid.berlin/)
@@ -45,15 +45,6 @@
     :material-email: [linda.kleemann@gfa-group.de](mailto:linda.kleemann@gfa-group.de)
     
     :material-github: [gelicko](https://github.com/gelicko)
-
-
--   ![Ronald Steyer Github Profile](https://avatars.githubusercontent.com/u/28636908?v=4){ width="400" }
-
-    #### Ronald Steyer
-
-    [*KfW*](https://www.kfw.de/kfw.de.html)
-
-    :material-github: [RonMath](https://github.com/RonMath)
 
 
 -   ![Philipp Schreiber Github Profile](https://avatars.githubusercontent.com/u/82368796?v=4){ width="400" }
