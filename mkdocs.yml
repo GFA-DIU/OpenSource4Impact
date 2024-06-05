@@ -24,6 +24,7 @@ nav:
   - Introduction:
      - Disclaimer: Introduction/disclaimer.md
      - Open Source in int. Development: Introduction/intro.md
+     - About us: Introduction/about_us.md
   - Checklists:
     - pre-project/index.md
     - IT Selection: pre-project/IT_sel_checklist.md
