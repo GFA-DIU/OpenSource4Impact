@@ -2,7 +2,7 @@
 
 <div class="grid cards team" markdown>
 
--   ![Gianluca Colombo One Off tech Profile](https://oneofftech.xyz/assets/images/team/gianluca.jpg){ width="400" }
+-   ![Gianluca Colombo One Off tech Profile](https://placehold.co/600x400){ width="400" }
 
     #### Gianluca Colombo
     [*ONEOFFTECH*](https://lucid.berlin/)
