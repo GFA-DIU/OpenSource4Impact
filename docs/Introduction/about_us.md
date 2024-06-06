@@ -16,14 +16,14 @@
     :material-github: [cgoffard](https://github.com/cgoffard)
 
 
--   ![Stephane Henriod Github Profile](https://avatars.githubusercontent.com/u/23653367?v=4){ width="400" }
+-   ![Stéphane Henriod Github Profile](https://avatars.githubusercontent.com/u/23653367?v=4){ width="400" }
 
-    #### Stephane Henriod
+    #### Stéphane Henriod
 
-    [*Geospatial Expert*](https://sosm.ch/de/ueber-uns/vorstand/fruehere-vorstandsmitglieder/stephane-henriod/)
+    [*Geospatial Expert*](https://www.henriod.info)
     
 
-
+    :material-email: [stephane@henriod.info](mailto:stephane@henriod.info)
     :material-github: [shenriod](https://github.com/shenriod)
 
 
