@@ -2,11 +2,12 @@
 
 <div class="grid cards team" markdown>
 
--   ![Gianluca Colombo One Off tech Profile](https://avatars.githubusercontent.com/u/82368796?v=4){ width="400" }
+-   ![Gianluca Colombo OneOff-tech Profile](https://oneofftech.xyz/assets/images/team/gianluca.jpg){ width="400" }
 
     #### Gianluca Colombo
-    [*ONEOFFTECH*](https://lucid.berlin/)
+    [*ONEOFFTECH*](https://oneofftech.de/)
 
+    :material-email: [info@oneofftech.de](mailto:info@oneofftech.de)
 
 -   ![Clarisse Goffard Github Profile](https://avatars.githubusercontent.com/u/145029905?v=4){ width="400" }
 
