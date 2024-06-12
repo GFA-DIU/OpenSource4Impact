@@ -25,6 +25,7 @@
     
 
     :material-email: [stephane@henriod.info](mailto:stephane@henriod.info)
+    
     :material-github: [shenriod](https://github.com/shenriod)
 
 
@@ -91,6 +92,7 @@
     [*ONEOFFTECH*](https://oneofftech.de/)
 
     :material-email: [info@oneofftech.de](mailto:info@oneofftech.de)
+
     :material-github: [avvertix](https://github.com/avvertix)
 </div>
 
