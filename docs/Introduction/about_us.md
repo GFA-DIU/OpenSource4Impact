@@ -79,9 +79,9 @@
 
 -   ![Ronald Steyer Github Profile](https://avatars.githubusercontent.com/u/28636908?v=4){ width="400" }
 
-    #### Ronald Steyer
-
-    [*KfW*](https://www.kfw.de/kfw.de.html)
+    #### Dr. Ronald Steyer
+    
+    [*Transformation - Blockchain - International Development*](https://www.linkedin.com/in/aboutronald/)
 
     :material-github: [RonMath](https://github.com/RonMath)
 
