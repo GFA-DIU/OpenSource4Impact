@@ -83,6 +83,15 @@
     [*KfW*](https://www.kfw.de/kfw.de.html)
 
     :material-github: [RonMath](https://github.com/RonMath)
+
+
+-   ![Alessio Vertemati OneOff-tech Profile](https://oneofftech.xyz/assets/images/team/alessio.jpg){ width="400" }
+
+    #### Alessio Vertemati
+    [*ONEOFFTECH*](https://oneofftech.de/)
+
+    :material-email: [info@oneofftech.de](mailto:info@oneofftech.de)
+    :material-github: [avvertix](https://github.com/avvertix)
 </div>
 
 
