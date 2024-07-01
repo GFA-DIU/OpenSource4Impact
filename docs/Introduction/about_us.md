@@ -1,4 +1,4 @@
-The OpenSource4Impact group consists a dedicated group of experts with extensive experience in addressing the technical and conceptual challenges involved in designing, implementing, and sustaining development cooperation projects with open source software. We come together to share our insights and lessons learned to better leverage open source for impact.
+The OpenSource4Impact group consists of a dedicated group of experts with extensive experience in addressing the technical and conceptual challenges involved in designing, implementing, and sustaining development cooperation projects with open source software. We come together to share our insights and lessons learned to better leverage open source for impact.
 
 <div class="grid cards team" markdown>
 
