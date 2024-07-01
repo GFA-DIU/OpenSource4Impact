@@ -1,9 +1,9 @@
-# Open Source guideline for Development Cooperation projects
+# OpenSource4Impact
 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
 
-Welcome to the *Open Source guideline for Development Cooperation projects*. This repository contains all the source files behind the guideline. This guideline is designed to help people working in development cooperation to:
+Welcome to the *Open Source guideline for Development Cooperation projects*. This repository contains all the source files behind the guideline. It is designed to help people working in development cooperation to:
 
   - Take a well-informed decision for or against the use, introduction or development of open source tools 
   - Avoid late failure and unexpected cost through appropiate planning
