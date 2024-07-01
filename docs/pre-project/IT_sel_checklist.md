@@ -20,7 +20,7 @@ At the point of project design there often already exists a good  general sense 
 1. Is there are an overarching IT strategy that can guide the choice of solution (e.g. cloud vs on-premise)? What are the usual decision making processes like? Who needs to be involved? Are there other departments and institutions that we can align with or learn from? Are other departments facing similar challenges? How and by whom are projects implemented there?
 
 ### 3. *Are the capacities of the client/partner well understood?*
-1. How high are the digital capacities of the future host? Is there an internal IT department that is familiar with open source technologies? How were previous IT projects implemented? As a thumb rule, open source solutions often focus on functionality and require technical skills for configuration, maintenance and integration.
+1. How high are the digital capacities of the future host? Is there an internal IT department that is familiar with open source technologies? How were previous IT projects implemented? As a thumb rule, open source solutions often focus on functionality and require sufficient technical skills for configuration, maintenance and integration.
 1. What is the level of digital skills at the host organisation? Are there any gaps that need to be addressed?
 1. What (financial and human) resources are available during the project (project management, development / deployment, training,...) and after the project (hosting / maintenance / continuous development / continued training)?
 
