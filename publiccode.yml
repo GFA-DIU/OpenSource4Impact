@@ -1,0 +1,49 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+ 
+publiccodeYmlVersion: '0.2'
+name: OpenSource4Impact
+url: 'https://gitlab.opencode.de/OC000039916151/OpenSource4Impact'
+releaseDate: '2024-07-01'
+softwareVersion: '0.1'
+softwareType: standalone/other
+developmentStatus: development
+platforms:
+  - web
+categories:
+  - collaboration
+maintenance:
+  type: community
+legal:
+  license: CC0-1.0
+localisation:
+  availableLanguages:
+    - en
+  localisationReady: false
+description:
+  en:
+    genericName: checklist
+    longDescription: >
+      OpenSource4Impact is a comprehensive guideline designed for Development
+      Cooperation projects that aim to integrate or adapt open source software.
+      The guide is structured into three main sections: an introduction that
+      covers essential terminology and cases of open source software use; a
+      checklist for pre-project IT selection; and guidelines for writing Terms
+      of Reference (ToRs) for procuring and operating open source software. The
+      resource offers practical, hands-on guidance for project design and
+      planning stages.
+    shortDescription: >-
+      Help people working in development cooperation to make informed decisions
+      about the use, introduction, and development of open source tools.
+    features:
+      - >-
+        Explains essential terminology and showcases case studies of open source
+        software use in projects.
+      - >-
+        Provides a comprehensive checklist to help projects choose suitable IT
+        solutions before starting.
+      - >-
+        Offers detailed instructions for writing ToRs for procuring and
+        operating open source software.
+      - 'Focuses on hands-on, actionable advice for project design and planning.'
