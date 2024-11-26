@@ -32,7 +32,7 @@ We recommend those unfamiliar with open source software procurement to seek expe
 
 1. Where possible, include mixed seniority through expert pools and tandems, to allow teams to flexibly distribute work and enable capacity building
 1. Consider other measures of experience, such as number of reference projects in field X, especially for less senior roles
-1. When requiring specific skills and technologies, be sure to limit it to a set of core compe-tencies to avoid unicorn personas
+1. When requiring specific skills and technologies, be sure to limit it to a set of core competencies to avoid unicorn personas
 
 ### 8. *Budget preparation*
 1. Carefully match the project requirements to the budget. Adapting, rather simply adopting, a piece of software can imply significant increases in effortConsider at minimum the following aspects for human capacity: analysis/requirements engineering, design, programming, user engagement and testing, domain expertise 
