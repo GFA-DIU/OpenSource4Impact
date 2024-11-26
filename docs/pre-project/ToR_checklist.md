@@ -24,6 +24,16 @@ We recommend those unfamiliar with open source software procurement to seek expe
 1. Describe desired implementation approach - consider prioritising agile modes of work where possible
 1. Plan the project timeline accordingly. Take into account that design and user engagement can take significant amounts of time.
 
+### 9. *Personnel Concept*
+!!! info inline end "Matching Maturity"
+
+    Different project phases require distinct skill sets, which are often challenging to find in a single CV. During early discovery phases, when the tech stack or product vision is still undefined, comprehensive expertise in the domain and general IT architecture is crucial. As the project matures and requirements solidify, more specialized technical skills become key.
+1. Prioritize skills and experiences that match the maturity stage of your project
+
+1. Where possible, include mixed seniority through expert pools and tandems, to allow teams to flexibly distribute work and enable capacity building
+1. Consider other measures of experience, such as number of reference projects in field X, especially for less senior roles
+1. When requiring specific skills and technologies, be sure to limit it to a set of core compe-tencies to avoid unicorn personas
+
 ### 8. *Budget preparation*
 1. Carefully match the project requirements to the budget. Adapting, rather simply adopting, a piece of software can imply significant increases in effortConsider at minimum the following aspects for human capacity: analysis/requirements engineering, design, programming, user engagement and testing, domain expertise 
 1. Consider costs for training and change management
