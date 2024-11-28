@@ -29,7 +29,7 @@ nav:
     - pre-project/index.md
     - IT Selection: pre-project/IT_sel_checklist.md
     - Writing ToRs: pre-project/ToR_checklist.md
-
+    - cost_estimates.md
 
 extra:
   consent:
