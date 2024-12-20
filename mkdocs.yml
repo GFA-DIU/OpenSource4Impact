@@ -14,7 +14,7 @@ theme:
   palette:
     - scheme: default
   
-copyright: Copyright &copy; 2024 &bullet; <a href="privacy_legal">Legal Notice & Privacy Policy</a> &bullet; <a href="#__consent">Change cookie settings</a>
+copyright: Copyright &copy; 2024 &bullet; <a href="/privacy_legal">Legal Notice & Privacy Policy</a> &bullet; <a href="#__consent">Change cookie settings</a>
 repo_url: https://github.com/GFA-DIU/OpenSource4Impact
 repo_name: OpenSource4Impact
 edit_uri: edit/main/docs/
@@ -29,7 +29,7 @@ nav:
     - pre-project/index.md
     - IT Selection: pre-project/IT_sel_checklist.md
     - Writing ToRs: pre-project/ToR_checklist.md
-
+  - Impressum: privacy_legal.md
 
 extra:
   consent:
@@ -43,14 +43,15 @@ extra:
 
 markdown_extensions:
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - admonition
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
   - md_in_html
   - def_list
+  - footnotes
 
 plugins:
   - privacy

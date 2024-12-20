@@ -4,7 +4,7 @@ At the point of project design there often already exists a good  general sense 
 
 ## :octicons-checklist-16: Checklist
 
-### 1. *Are the needs of the user(s) well understood?*
+### *Are the needs of the user(s) well understood?*
 1. Is there a precise definition of the problem? 
 1. Who is the client and who are the different user groups?
 1. What are (the) current user workflows?
@@ -12,19 +12,19 @@ At the point of project design there often already exists a good  general sense 
 1. What data is needed to answer the user need? Is it already available?  If not, how can it be obtained? 
 1. What is the current stage of the solution identification process? Does a requirements list for a potential solution already exist? Do the client or the users maybe already have solution in mind?
 
-### 2. *Is the existing IT environment and policies well understood?*
+### *Is the existing IT environment and policies well understood?*
 1. Is there already a digital architecture  in place that a solution should integrate with? If so, how close does this integration need to be?
 1. Is there an existing tool in the existing architecture that can easily be upgraded/ extended to address this need?
 1. Who will host and maintain the solution after the end of the project?
 1. What is the existing tech stack of the client and the users? What are existing standards that are being followed?
 1. Is there are an overarching IT strategy that can guide the choice of solution (e.g. cloud vs on-premise)? What are the usual decision making processes like? Who needs to be involved? Are there other departments and institutions that we can align with or learn from? Are other departments facing similar challenges? How and by whom are projects implemented there?
 
-### 3. *Are the capacities of the client/partner well understood?*
+### *Are the capacities of the client/partner well understood?*
 1. How high are the digital capacities of the future host? Is there an internal IT department that is familiar with open source technologies? How were previous IT projects implemented? As a thumb rule, open source solutions often focus on functionality and require sufficient technical skills for configuration, maintenance and integration.
 1. What is the level of digital skills at the host organisation? Are there any gaps that need to be addressed?
 1. What (financial and human) resources are available during the project (project management, development / deployment, training,...) and after the project (hosting / maintenance / continuous development / continued training)?
 
-### 4. *Are digital options well understood?*
+### *Are digital options well understood?*
 1. Based on the problem definition, what software (open and closed) is used to address similar needs? How are these usually provided? 
 1. Are there off-the-shelf, fully-serviced  tools (open source or proprietary) that can cover all or part of the needs? How are they priced?
 1. What is the landscape of IT companies to provide support in development, hosting, maintenance? Are there local options?
