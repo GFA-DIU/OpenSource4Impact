@@ -26,10 +26,12 @@ We recommend those unfamiliar with open source software procurement to seek expe
 
 ### *Personnel Concept*
 
-Common measures of qualification such as years of experience and level of formal education have strong limitations within software project. The inventor of a famous python package called FastAPI, for example, [posted job offers](https://x.com/tiangolo/status/1281946592459853830) to which he could not apply because it required 3 years of experience while he had only invented FastAPI 1 year before [^1]. As for the University degree, some famous examples of University dropouts include Steve Jobs (founder of Apple), Bill Gates (founder of Microsoft), and Mark Zuckerberg (founder of Facebook). All of them would fail to meet the formal education requirements of many job offers. We therefore put together a few recommendations for the personnel concept:
+Common measures of qualification such as years of experience and level of formal education have strong limitations within software project[^1]. We therefore put together a few recommendations for the personnel concept:
 
 [^1]:
-    The original post on twitter by Sebastian Ramirez read: I saw a job post the other day. It required 4+ years of experience in FastAPI. I couldn't apply as I only have 1.5+ years of experience since I created that thing. Maybe it's time to re-evaluate that "years of experience = skill level".
+    The inventor of a famous python package called FastAPI, for example, [posted job offers](https://x.com/tiangolo/status/1281946592459853830) to which he could not apply because it required 3 years of experience while he had only invented FastAPI 1 year before. As for the University degree, some famous examples of University dropouts include Steve Jobs (founder of Apple), Bill Gates (founder of Microsoft), and Mark Zuckerberg (founder of Facebook). All of them would fail to meet the formal education requirements of many job offers.
+
+
 
 !!! info inline end "Matching Maturity"
 
