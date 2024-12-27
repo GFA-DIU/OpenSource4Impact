@@ -31,7 +31,6 @@ We can then roughly estimate the TCO as:
 
 *TCO* = *Build Phase Cost* + 3 x *Yearly Run Phase Cost*
 
-
 ## The main cost categories
 
 ### IT Infrastructure
@@ -80,8 +79,3 @@ The non-technical staff is responsible for the management, coordination, and sup
 - **Change Managers:** Responsible for managing changes to the project scope and ensuring they are implemented effectively.
 
 Similiary, to the technical staff, the cost for the non-technical staff depends highly on the level of customization and complexity of the project. Especially for complex organizations the non-technical staff can be a substantial cost factor and is crucial to ensure the deployment and operation of the IT project.
-
-
-
-
- 
