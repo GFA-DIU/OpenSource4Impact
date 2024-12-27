@@ -4,8 +4,6 @@ As for any project within development cooperation the financial aspects are cruc
 
 On the other hand, it is frequently much easier to fix the available budget, time as well as the goals for the project at the beginning of the project. This means that IT projects are often managed more efficiently in agile project management frameworks, such as Scrum or Kanban. These frameworks allow for iterative development, continuous feedback, and the ability to adapt to scope to the changing requirements within the available time and budget.
 
-
-
 Despite the uncertainties, it is important to have a rough idea of the costs involved in an IT project throughout the project cycle. In general, we can think through the budget within the following scheme:
 
 | Cost Category | Description | Cost during build phase | Yearly cost during run phase |
