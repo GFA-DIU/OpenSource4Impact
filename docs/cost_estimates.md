@@ -57,7 +57,7 @@ Similar to hardware, software evolves rapidly, necessitating frequent updates or
 
 The technical staff is responsible for the development, implementation, and maintenance of the IT project. The size and composition of the technical team will depend on the complexity of the project and the technologies used. The following technical roles are typically involved in the development and maintenance of an IT project:
 
-- **IT Architects:** Responsible for designing the overall architecture of the IT project.
+- **IT Architects:** Responsible for designing the overall architecture of the IT project. This role is especially crucial if you consider a new development or the integration into an existing IT landscape.
 - **Software Developers:** Responsible for writing code, testing, and debugging software applications.
 - **System Administrators:** Responsible for installing, configuring, and maintaining servers and other IT infrastructure.
 - **IT Security Specialists:** Responsible for ensuring the implementation meets security standards. This role is ideally covered by the client/partner itself, as they have the best understanding of their internal security requirements and data protection needs.
