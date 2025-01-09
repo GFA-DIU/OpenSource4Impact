@@ -6,12 +6,12 @@ On the other hand, it is frequently much easier to fix the available budget, tim
 
 Despite the uncertainties, it is important to have a rough idea of the costs involved in an IT project throughout the project cycle. In general, we can think through the budget within the following scheme:
 
-| Cost Category | Description | Cost during build phase | Yearly cost during run phase |
-|---------------|-------------|---------------|-------------|
-| IT Infrastructure | Hardware, networking equipment, storage solutions, and space in data centers | - | -  |
-| Software | License fees, subscription charges, support or maintenance contracts, training expenses, and any additional costs for upgrades or updates |  | |
-| Technical Staff | Salaries and benefits for software developers, system administrators, IT security specialists, UI/UX designers, database administrators, network engineers, and user support staff | | |
-| Non-Technical Staff | Salaries and benefits for project managers, training coordinators, risk managers, compliance officers, and change managers | | |
+| Cost Category       | Description                                                                                                                                                                        | Cost during build phase | Yearly cost during run phase |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------- |
+| IT Infrastructure   | Hardware, networking equipment, storage solutions, and space in data centers                                                                                                       | -                       | -                            |
+| Software            | License fees, subscription charges, support or maintenance contracts, training expenses, and any additional costs for upgrades or updates                                          |                         |                              |
+| Technical Staff     | Salaries and benefits for software developers, system administrators, IT security specialists, UI/UX designers, database administrators, network engineers, and user support staff |                         |                              |
+| Non-Technical Staff | Salaries and benefits for project managers, training coordinators, risk managers, compliance officers, and change managers                                                         |                         |                              |
 
 In the following, we will provide a more detailed explaination of the project phases and then the main cost categories.
 
@@ -20,16 +20,15 @@ In the following, we will provide a more detailed explaination of the project ph
 We have already mentioned that IT projects are hard to plan. However, in practice we can often distinguish two main phases:
 
 - **The build phase:** This is the phase where the IT project is developed and implemented. The costs in this phase are typically one-time costs and include the costs for the IT infrastructure, software, and technical staff.
-- **The run phase:** This is the phase where the IT project is deployed and operated. The costs in this phase are typically recurring costs and include the costs for the technical and non-technical staff, software support and maintenance, and other operational costs. 
+- **The run phase:** This is the phase where the IT project is deployed and operated. The costs in this phase are typically recurring costs and include the costs for the technical and non-technical staff, software support and maintenance, and other operational costs.
 
-In contrast to other infrastructure projects the costs during the run phase can be substantial[^1]. Therefore, different cost scenarios are often compared through the *total cost of ownership* (TCO). The TCO includes all costs associated with the IT project over its entire lifecycle, including the costs for the build and run phase (which is typically taken to be 3 year).
+In contrast to other infrastructure projects the costs during the run phase can be substantial[^1]. Therefore, different cost scenarios are often compared through the _total cost of ownership_ (TCO). The TCO includes all costs associated with the IT project over its entire lifecycle, including the costs for the build and run phase (which is typically taken to be 3 year).
 
-[^1]:
-    A rough rule of thumb is that the yearly running costs are about 10 to 20% of the cost in the build phase. However, this can vary greatly depending on the complexity of the project, the technologies used, and the size of the organization.
+[^1]: A rough rule of thumb is that the yearly running costs are about 10 to 20% of the cost in the build phase. However, this can vary greatly depending on the complexity of the project, the technologies used, and the size of the organization.
 
 We can then roughly estimate the TCO as:
 
-*TCO* = *Build Phase Cost* + 3 x *Yearly Run Phase Cost*
+_TCO_ = _Build Phase Cost_ + 3 x _Yearly Run Phase Cost_
 
 ## The main cost categories
 
@@ -58,9 +57,11 @@ Similar to hardware, software evolves rapidly, necessitating frequent updates or
 
 The technical staff is responsible for the development, implementation, and maintenance of the IT project. The size and composition of the technical team will depend on the complexity of the project and the technologies used. The following technical roles are typically involved in the development and maintenance of an IT project:
 
+- **IT Architects:** Responsible for designing the overall architecture of the IT project.
 - **Software Developers:** Responsible for writing code, testing, and debugging software applications.
 - **System Administrators:** Responsible for installing, configuring, and maintaining servers and other IT infrastructure.
-- **IT Security Specialists:** Responsible for ensuring the implementation meets security standards.
+- **IT Security Specialists:** Responsible for ensuring the implementation meets security standards. This role is ideally covered by the client/partner itself, as they have the best understanding of their internal security requirements and data protection needs.
+
 - **UI/UX Designers:** Responsible for designing user interfaces and ensuring a positive user experience.
 - **Database Administrators:** Responsible for setting up databases and ensuring data integrity.
 - **Network Engineers:** Responsible for configuring necessary network infrastructure.
@@ -73,9 +74,9 @@ The cost for the technical staff can be substantial and depends highly on the le
 The non-technical staff is responsible for the management, coordination, and support of the IT project. The following non-technical roles are typically involved in the development and maintenance of an IT project:
 
 - **Project Managers:** Responsible for coordinating the project and ensuring it meets its objectives.
-- **Training Coordinators:** Responsible for planning and organizing initial training sessions.
+- **Training Coordinators:** Responsible for planning and organizing initial training sessions. This role can be often covered by the technical staff in smaller projects. However, if training is needed for a large number of people, then its organization is best concentrated within one specfic coordinator.
 - **Risk Managers:** Responsible for conducting initial risk assessments and developing contingency plans.
-- **Compliance Officers:** Responsible for ensuring compliance with regulations and managing audits.
-- **Change Managers:** Responsible for managing changes to the project scope and ensuring they are implemented effectively.
+- **Compliance Officers:** Responsible for ensuring compliance with regulations and managing audits. This role is ideally covered by the client/partner itself, as they have the best understanding of their internal requirements.
+- **Change Managers:** Responsible for accessing the needed organizational changes in the early build phase and as a main task supporting the organizational change needed alongside the introduction of a new solution such as human process changes, changes of roles and communication structures, etc.
 
 Similiary, to the technical staff, the cost for the non-technical staff depends highly on the level of customization and complexity of the project. Especially for complex organizations the non-technical staff can be a substantial cost factor and is crucial to ensure the deployment and operation of the IT project.
