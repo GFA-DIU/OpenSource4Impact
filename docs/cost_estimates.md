@@ -30,6 +30,8 @@ We can then roughly estimate the TCO as:
 
 _TCO_ = _Build Phase Cost_ + 3 x _Yearly Run Phase Cost_
 
+From experience complex IT projects require substantial organizational commitment and active participation from the client throughout both phases, which goes well beyond the typical involvement needed in traditional infrastructure projects. As a consequence, a non-negligable portion of the TCO cannot be covered by external consultants and but only by the clients ressources.
+
 ## The main cost categories
 
 ### IT Infrastructure
@@ -75,7 +77,7 @@ The non-technical staff is responsible for the management, coordination, and sup
 
 - **Project Managers:** Responsible for coordinating the project and ensuring it meets its objectives.
 - **Training Coordinators:** Responsible for planning and organizing initial training sessions. This role can be often covered by the technical staff in smaller projects. However, if training is needed for a large number of people, then its organization is best concentrated within one specfic coordinator.
-- **Risk Managers:** Responsible for conducting initial risk assessments and developing contingency plans.
+- **Risk Managers:** Responsible for conducting initial risk assessments from things like licenses, security or external or dependendies. This role is especially important for complex projects with a lot of stakeholders and dependencies as it allows for a more proactive proactive approach to managing risks.
 - **Compliance Officers:** Responsible for ensuring compliance with regulations and managing audits. This role is ideally covered by the client/partner itself, as they have the best understanding of their internal requirements.
 - **Change Managers:** Responsible for accessing the needed organizational changes in the early build phase and as a main task supporting the organizational change needed alongside the introduction of a new solution such as human process changes, changes of roles and communication structures, etc.
 
