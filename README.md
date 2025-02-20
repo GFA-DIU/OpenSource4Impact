@@ -40,6 +40,11 @@ Create a virtual Python environment
 python -m venv .venv
 ```
 
+Activate the virtual environment
+```Bash
+source .venv/bin/activate
+```
+
 Install mkdocs-material (more info, [here](https://squidfunk.github.io/mkdocs-material/getting-started/))
 ```Bash
 pip install mkdocs-material
